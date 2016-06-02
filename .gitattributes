@@ -16,4 +16,5 @@
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
 
-templates/* linguist-vendored
+*.rb linguist-language=Python
+#templates/* linguist-vendored
