@@ -1,0 +1,83 @@
+html {
+    background: black;
+}
+
+h2 {
+    color: #DADADA;
+}
+
+hr {
+    border: 1px dashed #3D3D3D;
+}
+
+label {
+    color: white;
+}
+
+select {
+    background: #0F0F0F;
+    color: #DADADA;
+    border: 1px solid #313131;
+    width: 171px;
+}
+
+table {
+    color: white;
+}
+
+.field {
+    border: none;
+    background: rgba(53, 53, 53, 0.3);
+    color: #DADADA;
+    margin: 0px;
+    padding: 3px 3px 3px 3px;
+    border: 1px solid rgba(105, 105, 105, 0.38);
+    font-family: monospace;
+}
+
+table {border: rgb(236, 236, 236);}
+
+th {
+    color: #DADADA;    
+    font-family: monospace;
+}
+
+input{
+    background: rgba(53, 53, 53, 0.3);
+    border: 1px solid rgba(105, 105, 105, 0.38);
+    color: #DADADA;
+}
+
+input[type="number"] {
+    width: 169px;
+}
+
+input[type="text"]{
+    width: 169px;
+}
+
+.btn {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+    text-decoration: none;
+    padding: 3px;
+    background: #353535;
+    border: 1px solid #3D3D3D;
+    border-radius: 0.1em;
+    color: #DADADA;
+}
+
+.message {
+    padding: 4px;
+    background: #0F0F0F;
+    border: 1px solid #313131;
+}
+
+#success {
+    color: #00A716;
+}
+
+#failure {
+    color: #ff0000;
+}
