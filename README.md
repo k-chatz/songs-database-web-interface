@@ -1,6 +1,6 @@
 # Songs-Database-Interface
 Python application for manage songs database.
-<b>Minimum Python version:</b>
+<br /><b>Minimum Python version:</b>
 Python 2.7.6
 <br />
 <b>Required libraries:</b>
@@ -14,14 +14,6 @@ Python 2.7.6
   <li>Execute <b>songsdump.sql</b> from resources folder at your localhost database.</li>
   <li>Create a user with name '<b>singer</b>' and password '<b>singer</b>' for '<b>songs</b>' database.</li>
 </ol>
-<b>Execute python application command:</b>
-<br />
-$ python main.py
-<br />
-<b>View Songs Database Interface in browser:</b>
-<br />
-http://localhost:9090
-<br />
-<b>Test Example:</b> 
-<br />
-http://83.212.118.209:8888
+<b>Execute python application command:</b> $ python main.py <br />
+<b>View Songs Database Interface in browser:</b> http://localhost:9090 <br />
+<b>Test Example:</b>http://83.212.118.209:8888
